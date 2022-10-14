@@ -1,0 +1,3 @@
+Crontab -e
+15 * * * * bash /home/debian/Documents/shell.exe/Job8/get_logs.sh
+
